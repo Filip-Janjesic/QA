@@ -1,8 +1,8 @@
 # QA Portfolio – Filip Janješić
 
-This repository contains examples of QA documentation and testing artifacts.
+This repository contains examples of QA documentation and testing artifacts created to demonstrate my approach to software testing.
 
-The goal of this portfolio is to demonstrate my ability to identify, document and structure software testing work.
+Although my background is in backend development, I have extensive experience analyzing bugs, reproducing issues, and testing integrations between systems.
 
 ---
 
@@ -12,10 +12,16 @@ bug-reports
 Examples of documented software issues.
 
 test-cases  
-Manual test cases for different features.
+Manual test cases for UI and API functionality.
 
 test-plans  
-Basic testing strategy and planning documentation.
+Testing strategy and scope documentation.
+
+checklists  
+Release testing checklist.
+
+templates  
+Reusable QA templates.
 
 ---
 
@@ -27,19 +33,17 @@ Basic testing strategy and planning documentation.
 
 ### Test Cases
 
-- Login functionality tests
-- API endpoint tests
+- Login feature testing
+- API endpoint testing
 
 ### Test Plan
 
-- Example web application test plan
+- Example web application testing plan
 
----
+### QA Tools Demonstrated
 
-## Skills Demonstrated
-
-- Bug reporting
 - Test case design
+- Bug reporting
 - API testing
 - Test planning
 - QA documentation
